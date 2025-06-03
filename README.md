@@ -68,7 +68,7 @@ See the [LICENSE](LICENSE) file for details.
 ## 👤 Author
 
 **Cock Coders Team**
-- 📧 Email: [your-email@example.com]  
-- 🌐 GitHub: [github.com/okjordanwood/Cock-Coders-Project](https://github.com/okjordanwood/Cock-Coders-Project)
-
----
+- 📧 Email: [jordancwood2002@gmail.com](mailto:jordancwood2002@gmail.com)  
+- 🌐 Website: [jordanwood.netlify.app](https://jordanwood.netlify.app)  
+- 🐙 GitHub: [github.com/okjordanwood](https://github.com/okjordanwood)  
+- 💼 LinkedIn: [linkedin.com/in/jordan-wood-085274247](https://www.linkedin.com/in/jordan-wood-085274247)
