@@ -58,6 +58,44 @@ Cock Coders LMS is designed to streamline the educational process by providing:
 
 ---
 
+## ⚙️ How to Run
+
+To run the Cock Coders LMS application, follow these steps:
+
+1.  **Prerequisites:**
+    *   Ensure you have Java Development Kit (JDK) installed on your system. You can download it from [Oracle's website](https://www.oracle.com/java/technologies/javase-downloads.html) or use an open-source alternative like OpenJDK.
+
+2.  **Navigate to the Source Directory:**
+    Open your terminal or command prompt and navigate to the `src` directory within the project folder:
+    ```bash
+    cd path/to/Cock-Coders-Project/src
+    ```
+
+3.  **Compile the Java Files:**
+    Compile all the Java files from the `src` directory. The compiled `.class` files will be placed in their respective package directories (`backEnd` and `ui`).
+    ```bash
+    javac .\backEnd\*.java .\ui\*.java
+    ```
+    *Note: Depending on your operating system and shell, you might need to adjust the path separators (e.g., use `/` instead of `\`).*
+
+4.  **Run the Application:**
+    After successful compilation, run the application by executing the `UIDriver` class:
+    ```bash
+    java ui.UIDriver
+    ```
+    This will launch the application, starting with the landing page.
+
+5.  **Sample Login Credentials:**
+    The application includes sample login credentials for testing:
+    *   **Teacher:**
+        *   Username: `john_w`
+        *   Password: `jword123`
+    *   **Student:**
+        *   Username: `calebrb`
+        *   Password: `cword123`
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
